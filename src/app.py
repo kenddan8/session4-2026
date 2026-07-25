@@ -101,6 +101,15 @@ capabilities = {
         "industry_verticals": ["Technology", "Financial Services", "Healthcare"],
         "capacity": 20,
         "consultants": ["charlotte.young@slalom.com", "henry.king@slalom.com"]
+    },
+    "Slalom Build": {
+        "description": "Product strategy, design thinking, agile product delivery, and digital product innovation",
+        "practice_area": "Technology",
+        "skill_levels": ["Emerging", "Proficient", "Advanced", "Expert"],
+        "certifications": ["Certified Scrum Product Owner", "Pragmatic Product Management", "ICAgile Product Management"],
+        "industry_verticals": ["Consumer Products", "Fintech", "Healthtech"],
+        "capacity": 30,
+        "consultants": ["lucas.adams@slalom.com", "zoe.morris@slalom.com"]
     }
 }
 
